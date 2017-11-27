@@ -49,7 +49,7 @@ if __name__ == '__main__':
     print(list(filtered_out)[:10], '\n')
 
     print("Vocabulary after filtering...")
-    #print(dct.token2id.keys(), '\n')
+    print(dct.token2id.keys(), '\n')
 
     # Build Bag of Words Vectors out of preprocessed corpus
     print("---Bag of Words Corpus---")
@@ -60,7 +60,7 @@ if __name__ == '__main__':
         sparse = dct.doc2bow(preprocessed_docs[name])
         bow_docs[name] = sparse
         dense = vec2dense(sparse, num_terms=len(dct))
-        #print(name, ":", dense)
+        print(name, ":", dense)
 
     # Dimensionality reduction using LSI. Go from 6D to 2D.
     print("\n---LSI Model---")
