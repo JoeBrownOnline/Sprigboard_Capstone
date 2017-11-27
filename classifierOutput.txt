@@ -1,0 +1,126 @@
+C:\Users\Joe\AppData\Local\Programs\Python\Python36-32\lib\site-packages\gensim\utils.py:860: UserWarning: detected Windows; aliasing chunkize to chunkize_serial
+  warnings.warn("detected Windows; aliasing chunkize to chunkize_serial")
+
+---Corpus with Stopwords Removed---
+conyank.txt : ['connecticut', 'yankee', 'king', "arthur's", 'court', 'mark', 'twain', '(samuel', 'l.', 'clemens)', 'preface', 'ungentle', 'laws', 'customs', 'touched', 'tale', 'historical,', 'episodes', 'illustrate', 'historical.']
+dubliners.txt : ['dubliners', 'sisters', 'hope', 'time:', 'stroke.', 'night', 'night', 'passed', 'house', '(it', 'vacation', 'time)', 'studied', 'lighted', 'square', 'window:', 'night', 'night', 'found', 'lighted']
+emma.txt : ['emma', 'jane', 'austen', 'volume', 'chapter', 'emma', 'woodhouse,', 'handsome,', 'clever,', 'rich,', 'comfortable', 'home', 'happy', 'disposition,', 'unite', 'blessings', 'existence;', 'lived', 'twenty-one', 'years']
+heart.txt : ['heart', 'darkness', 'joseph', 'conrad', 'nellie,', 'cruising', 'yawl,', 'swung', 'anchor', 'flutter', 'sails,', 'rest.', 'flood', 'made,', 'wind', 'calm,', 'bound', 'river,', 'thing', 'wait']
+huck.txt : ['adventures', 'huckleberry', 'finn', '(tom', "sawyer's", 'comrade)', 'mark', 'twain', 'complete', 'contents.', 'chapter', 'i.', 'civilizing', 'huck.--miss', 'watson.--tom', 'sawyer', 'waits.', 'chapter', 'ii.', 'boys']
+iliad.txt : ['_the', 'iliad._', 'book', 'i.', 'argument.(40)', 'contention', 'achilles', 'agamemnon.', 'war', 'troy,', 'greeks', 'sacked', 'neighbouring', 'towns,', 'beautiful', 'captives,', 'chryseis', 'briseis,', 'allotted', 'agamemnon,']
+lodrjim.txt : ['lord', 'jim', 'joseph', 'conrad', "author's", 'note', 'appeared', 'book', 'form', 'notion', 'bolted', 'with.', 'reviewers', 'maintained', 'work', 'starting', 'short', 'story', "writer's", 'control.']
+mansfield.txt : ['mansfield', 'park', '(1814)', 'jane', 'austen', 'chapter', 'thirty', 'years', 'ago', 'miss', 'maria', 'ward,', 'huntingdon,', 'thousand', 'pounds,', 'good', 'luck', 'captivate', 'sir', 'thomas']
+mississippi.txt : ['\ufefflife', 'mississippi', 'mark', 'twain', 'table', 'contents', 'chapter', 'i.', 'mississippi', 'worth', 'reading', 'about.--it', 'remarkable.--instead', 'widening', 'mouth,', 'grows', 'narrower.--it', 'empties', 'hundred', 'million']
+northanger.txt : ['northanger', 'abbey', 'jane', 'austen', '(1803)', 'advertisement', 'authoress,', 'northanger', 'abbey', 'work', 'finished', 'year', '1803,', 'intended', 'publication.', 'disposed', 'bookseller,', 'advertised,', 'business', 'proceeded']
+nostromo.txt : ['nostromo', 'tale', 'seaboard', 'joseph', 'conrad', '"so', 'foul', 'sky', 'clears', 'storm."', '--shakespeare', 'john', 'galsworthy', "author's", 'note', '"_nostromo_"', 'anxiously', 'meditated', 'longer', 'novels']
+odyssey.txt : ['odyssey', 'book', 'gods', "council--minerva's", 'visit', 'ithaca--the', 'challenge', 'telemachus', 'suitors.', 'me,', 'muse,', 'ingenious', 'hero', 'travelled', 'wide', 'sacked', 'famous', 'town', 'troy.', 'cities']
+persuasion.txt : ['persuasion', 'jane', 'austen', '(1818)', 'chapter', '1', 'sir', 'walter', 'elliot,', 'kellynch', 'hall,', 'somersetshire,', 'man', 'who,', 'amusement,', 'book', 'baronetage;', 'found', 'occupation', 'idle']
+portrait.txt : ['time', 'good', 'time', 'moocow', 'coming', 'road', 'moocow', 'coming', 'road', 'met', 'nicens', 'boy', 'named', 'baby', 'tuckoo...', 'father', 'told', 'story:', 'father', 'looked']
+pride.txt : ['pride', 'prejudice', 'jane', 'austen', 'chapter', '1', 'truth', 'universally', 'acknowledged,', 'single', 'man', 'possession', 'good', 'fortune,', 'wife.', 'feelings', 'views', 'man', 'entering', 'neighbourhood,']
+prince.txt : ['\ufeffthe', 'prince', 'pauper', 'mark', 'twain', 'great', 'seal', 'set', 'tale', 'told', 'father,', 'father,', 'manner', 'father--and', 'on,', 'back', 'back,', 'hundred', 'years', 'more,']
+secretagent.txt : ['mr', 'verloc,', 'morning,', 'left', 'shop', 'nominally', 'charge', 'brother-in-law.', 'done,', 'business', 'time,', 'practically', 'evening.', 'mr', 'verloc', 'cared', 'ostensible', 'business.', 'and,', 'moreover,']
+sense.txt : ['sense', 'sensibility', 'jane', 'austen', '(1811)', 'chapter', '1', 'family', 'dashwood', 'long', 'settled', 'sussex.', 'estate', 'large,', 'residence', 'norland', 'park,', 'centre', 'property,', 'where,']
+tom.txt : ['adventures', 'tom', 'sawyer', 'mark', 'twain', '(samuel', 'langhorne', 'clemens)', 'contents', 'chapter', 'i.', 'y-o-u-u', 'tom-aunt', 'polly', 'decides', 'duty--tom', 'practices', 'music--the', 'challenge--a', 'private']
+tramp.txt : ['tramp', 'abroad', 'mark', 'twain', 'mark', 'twain', '(samuel', 'l.', 'clemens)', 'published', '1880', 'illustrations', '1880', 'edition', '*', '*', '*', '*', '*', '*']
+ulysses.txt : ['ulysses', 'james', 'joyce', 'stately,', 'plump', 'buck', 'mulligan', 'stairhead,', 'bearing', 'bowl', 'lather', 'mirror', 'razor', 'lay', 'crossed.', 'yellow', 'dressinggown,', 'ungirdled,', 'sustained', 'gently']
+
+The following super common/rare words were filtered out...
+['pictures', 'partridge', 'poe', 'n.,', 'unfancied,', "hifalut'n", 'open-hearted,', 'deck-chair,', 'unspeakable', 'sawyer,"'] 
+
+Vocabulary after filtering...
+---Bag of Words Corpus---
+
+---LSI Model---
+conyank.txt : [87.931625, -239.05334]
+dubliners.txt : [466.8316, 135.43228]
+emma.txt : [20.253607, -2.1660666]
+heart.txt : [8.2574863, -6.8069348]
+huck.txt : [40.070202, -60.778397]
+iliad.txt : [137.70322, -30.21608]
+lodrjim.txt : [336.94791, -1149.842]
+mansfield.txt : [30.738178, 0.98875242]
+mississippi.txt : [39.225334, -20.27013]
+northanger.txt : [7.8996964, -1.5265547]
+nostromo.txt : [148.48503, -255.14484]
+odyssey.txt : [31.772482, -7.677824]
+persuasion.txt : [277.14304, 78.44619]
+portrait.txt : [203.54922, 56.030323]
+pride.txt : [19.679543, -0.56487852]
+prince.txt : [41.715637, -78.047501]
+secretagent.txt : [517.61517, 6.1568084]
+sense.txt : [11.733656, -1.5355244]
+tom.txt : [18.098284, -6.1573262]
+tramp.txt : [35.217525, -9.1175108]
+ulysses.txt : [1129.1433, 317.2496]
+
+---Unit Vectorization---
+conyank.txt : [0.3452190819019752, -0.9385221283969587]
+dubliners.txt : [0.96040100316976296, 0.27862145127486698]
+emma.txt : [0.99432974257534257, -0.10634078723637994]
+heart.txt : [0.77162511608862616, -0.63607757405933929]
+huck.txt : [0.55042552856243598, -0.83488426593556242]
+iliad.txt : [0.97676135712628687, -0.21432977213820342]
+lodrjim.txt : [0.28121297653906685, -0.95964538337139837]
+mansfield.txt : [0.99948304586826564, 0.032150288053056308]
+mississippi.txt : [0.88839166134210557, -0.45908632745684513]
+northanger.txt : [0.98183589238194624, -0.18973212809260137]
+nostromo.txt : [0.50298753334019319, -0.8642936661253211]
+odyssey.txt : [0.97202213630264878, -0.23488926441545804]
+persuasion.txt : [0.962197419651455, 0.27235294310156033]
+portrait.txt : [0.96413962286982458, 0.26539553050575787]
+pride.txt : [0.99958829904976232, -0.028692026815872313]
+prince.txt : [0.471382489947971, -0.88192887931536235]
+secretagent.txt : [0.99992926714296859, 0.011893725695756597]
+sense.txt : [0.99154561797731167, -0.12975857378220257]
+tom.txt : [0.9467103969326579, -0.32208605114101024]
+tramp.txt : [0.96808337726118876, -0.25062835966939351]
+ulysses.txt : [0.9627224507515626, 0.27049118806146893]
+
+---Document Similarities---
+conyank.txt is most similar to... lodrjim.txt
+dubliners.txt is most similar to... persuasion.txt
+emma.txt is most similar to... sense.txt
+heart.txt is most similar to... mississippi.txt
+huck.txt is most similar to... nostromo.txt
+iliad.txt is most similar to... odyssey.txt
+lodrjim.txt is most similar to... conyank.txt
+mansfield.txt is most similar to... secretagent.txt
+mississippi.txt is most similar to... tom.txt
+northanger.txt is most similar to... iliad.txt
+nostromo.txt is most similar to... prince.txt
+odyssey.txt is most similar to... tramp.txt
+persuasion.txt is most similar to... ulysses.txt
+portrait.txt is most similar to... ulysses.txt
+pride.txt is most similar to... secretagent.txt
+prince.txt is most similar to... nostromo.txt
+secretagent.txt is most similar to... mansfield.txt
+sense.txt is most similar to... emma.txt
+tom.txt is most similar to... tramp.txt
+tramp.txt is most similar to... odyssey.txt
+ulysses.txt is most similar to... persuasion.txt
+
+---Classification---
+conyank.txt is a document about huck
+dubliners.txt is a document about portrait
+emma.txt is a document about emma
+heart.txt is a document about huck
+huck.txt is a document about huck
+iliad.txt is a document about emma
+lodrjim.txt is a document about huck
+mansfield.txt is a document about emma
+mississippi.txt is a document about emma
+northanger.txt is a document about emma
+nostromo.txt is a document about huck
+odyssey.txt is a document about emma
+persuasion.txt is a document about portrait
+portrait.txt is a document about portrait
+pride.txt is a document about emma
+prince.txt is a document about huck
+secretagent.txt is a document about emma
+sense.txt is a document about emma
+tom.txt is a document about emma
+tramp.txt is a document about emma
+ulysses.txt is a document about portrait
+
+
+[Finished in 20.0s]
